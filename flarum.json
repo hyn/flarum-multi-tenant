@@ -3,7 +3,7 @@
     "title": "Multi tenant",
     "description": "Creates a SAAS like forum platform where multiple fora can run on one flarum installation.",
     "keywords": ["multi-tenant"],
-    "version": "0.3.0",
+    "version": "0.1.0",
     "author": {
         "name": "Daniel Klabbers",
         "email": "daniel+flarum@klabbers.email",
@@ -15,7 +15,7 @@
         "flarum": ">0.1.0"
     },
     "icon": {
-      "name": "users",
+      "name": "th",
       "backgroundColor": "#539EC1",
       "color": "#fff"
     }

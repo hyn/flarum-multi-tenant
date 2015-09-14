@@ -3,5 +3,7 @@
         "psr-4": {
             "Hyn\\MultiTenant\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
